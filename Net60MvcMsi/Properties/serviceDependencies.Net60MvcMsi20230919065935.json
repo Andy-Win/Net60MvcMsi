@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "應用程式註冊: andy19mvc2，租用戶: WTETestAd05 (WTETestAd05.onmicrosoft.com - AAD)",
+      "type": "identityapp.default"
+    }
+  }
+}
